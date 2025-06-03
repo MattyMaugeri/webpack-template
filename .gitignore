@@ -1,0 +1,24 @@
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# dotenv environment files (if used)
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode workspace
+.vscode/
+
+# Mac system files
+*.DS_Store
