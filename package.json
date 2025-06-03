@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mattymaugeri.github.io/weather-app/",
+  "homepage": "https://mattymaugeri.github.io/<REPO-NAME>/",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
     "dev": "webpack --config webpack.dev.js",
