@@ -6,8 +6,9 @@ module.exports = {
     output: {
         filename: 'main.js',
         path: path.resolve(__dirname, 'dist'),
+        publicPath: '',
         clean: true,
-        assetModuleFilename: 'images/[hash][ext][query]', // optional for custom image paths
+        assetModuleFilename: 'images/[hash][ext][query]',
     },
     mode: 'development',
     module: {
